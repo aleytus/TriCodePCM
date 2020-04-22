@@ -1,0 +1,9 @@
+NTSC
+246 line 59.94 fps 
+29.97 fps 3000/1001 tinterlace=mode=merge 492 line
+44.056hz 14, 16 bit
+
+PAL
+295 line 50 fps
+25 fps tinterlace=mode=merge 590 line
+44.100hz 14, 16 bit
